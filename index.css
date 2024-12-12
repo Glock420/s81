@@ -42,3 +42,12 @@
 #resources div:hover {
 	background-color: #00b963;
 }
+
+#about {
+	color: #00b963;
+}
+
+#contact .btn-dark {
+	color: #000000;
+	background-color: #00b963;
+}
