@@ -3,3 +3,11 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
+#nav {
+	border-color: #00b963 !important;
+}
+
+#nav .navbar-brand, .navbar-nav .nav-link {
+	color: #00b963 !important;
+}
